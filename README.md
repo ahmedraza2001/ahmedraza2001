@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ahmedraza2001
-- 👀 I’m interested in learning web & mobile app development
-- 🌱 I’m currently learning **web development**
-- 💞️ I’m looking to collaborate on **web development**
-- 📫 How to reach me **ahmiiis169@gmail.com**
+- This is my first git repository
+- Author~ Ahmed Raza
 
 
 <!---
